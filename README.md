@@ -1,5 +1,8 @@
 # VitAlz
 
+# Video Demo
+https://youtu.be/EFEdL2b5tcU
+
 # Inspiration
 Each of us on the team has experience with a loved one who suffered from Alzheimer's disease or dementia. We know how heartbreaking it is to see family members struggle with symptoms and understand how difficult it can be to provide care for those relatives. We wanted to provide better support for patients, family members, and caregivers when treating Alzheimer's disease.
 
